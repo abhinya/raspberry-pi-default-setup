@@ -1,19 +1,20 @@
 # raspberry-pi-default-setup
-default raspberry pi setup
-The following have been integrated
-1. OpenVpn Server (connect to your network from anywhere)
-2. Transmission
-3. Couchpotatoe
-4. Sickrage
-5. Samba
-6. Headless and password less
-7. Motion
-8. Postfix Gmail relay (makes pi send emails using Gmail)
-9. Privoxy
-10. Tor
+>----Default Raspberry pi setup:
 
+>>----Services: [ This list is not exhaustive and final, it’s a work in progress ]
+1.	Headless and password less
+2.	Postfix Gmail relay (makes pi send emails using Gmail)
+3.	OpenVPN (Access This server from anywhere)
+4.	Samba (File Server)
+5.	Tor (Anonymous Browsing)
+6.	Privoxy (Ad Block Browsing and gateway to Tor)
+7.	Motion (Home Surveillance with Motion Detection)
+8.	Transmission ( ~~~ )
+9.	Couchpotatoe (Movies)
+10.	Sickrage (TV Shows)
+11.	Mumble Server (VoIP) 
 
-Attribution:
-This while project is a compilation derived from publicly made available work of many many far intelligent people.
-The following are the links to the pages from where all of the above works have been achieved using.
+>>----Attribution:
+This whole project is a compilation derived from publicly made available work of many many far intelligent people.
+The following are the links to the pages which have been instrumental in achieving the above work.
 My sincerest thanks to every one of them :-)
